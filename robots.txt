@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://timoseret.mihos.pl/timoseret.txt
